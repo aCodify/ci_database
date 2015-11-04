@@ -1,0 +1,16 @@
+{
+    "name": "acodify/ci_database",
+    "authors": [
+        {
+            "name": "Jirayu Kanda",
+            "email": "me@acodify.com"
+        }
+    ],
+    "require": {},
+    "extra": {
+      "branch-alias": {
+        "dev-master": "0.1"
+      }
+    }
+
+}
