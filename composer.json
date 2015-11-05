@@ -11,6 +11,9 @@
       "branch-alias": {
         "dev-master": "0.0.1-dev"
       }
+    },
+    "autoload": {
+      "files": ["/acodify/ci_database/database/DB.php"]
     }
 
 }
