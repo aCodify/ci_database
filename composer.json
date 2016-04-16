@@ -1,5 +1,11 @@
 {
     "name": "acodify/ci_database",
+    "version": "0.5",
+    "homepage": "http://www.abstractcodify.com",
+    "description": "codeigniter active record",
+    "type": "library",
+    "keywords": ["ci", "active"],
+    "license": "no usage restriction",
     "authors": [
         {
             "name": "Jirayu Kanda",
